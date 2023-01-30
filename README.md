@@ -2,7 +2,6 @@
 <img align="left" width="0" height="192px" hspace="10"/>
 
 > Installation documentation for Passbolt CE using AWS AMI
-[![Under Development](https://img.shields.io/badge/under-development-orange.svg)](https://github.com/cez-aug/github-project-boilerplate) [![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Travis](https://img.shields.io/travis/cez-aug/github-project-boilerplate.svg)](http://github.com/cez-aug/github-project-boilerplate)
 
 > This repo is to serve as documentation of my installation, configuration, troubleshooting, and remediation of issues installing the Passbolt CE password manager. I used the Passbolt provided AWS AMI to install, only deviating where noted further in this document.
 <br>
